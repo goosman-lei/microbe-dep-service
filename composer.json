@@ -1,0 +1,29 @@
+{
+    "name": "microbe/user-info",
+    "type": "project",
+    "homepage": "https://github.com/goosman-lei/microbe-demo",
+    "require": {
+        "goosman-lei/microbe": "dev-master"
+    },
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "goosman.lei",
+            "email": "goosman.lei@gmail.com"
+        }
+    ],
+    "repositories": [
+        {
+            "packagist": false
+        },
+        {
+            "type": "composer",
+            "url": "https://mirrors.aliyun.com/composer"
+        },
+        {
+            "type": "vcs",
+            "url": "git@github.com:goosman-lei/microbe.git"
+        }
+    ],
+    "minimum-stability": "dev"
+}
