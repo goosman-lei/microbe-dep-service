@@ -1,5 +1,5 @@
 <?php
-namespace User;
+namespace MicrobeDep;
 class UserInfo extends \Microbe\Service {
     public function getInfo($name) {
         return [
