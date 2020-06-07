@@ -1,2 +1,2 @@
 <?php
-$namespace = '\\MicrobeDep";
+$namespace = '\\MicrobeDep';
