@@ -1,7 +1,6 @@
 {
-    "name": "microbe/user-info",
-    "type": "project",
-    "homepage": "https://github.com/goosman-lei/microbe-demo",
+    "name": "microbe-dep/service",
+    "type": "library",
     "require": {
         "goosman-lei/microbe": "dev-master"
     },
