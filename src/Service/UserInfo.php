@@ -6,6 +6,6 @@ class UserInfo extends \Microbe\Service {
             'id'   => 1,
             'name' => $name,
             'age'  => 19,
-        ]
+        ];
     }
 }
