@@ -28,7 +28,7 @@
     "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
-            "\\MicrobeDep\\": "src"
+            "MicrobeDep\\": "src"
         }
     }
 }
