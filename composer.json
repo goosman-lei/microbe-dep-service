@@ -2,7 +2,7 @@
     "name": "microbe-dep/service",
     "type": "library",
     "require": {
-        "goosman-lei/microbe": "dev-dev"
+        "goosman-lei/microbe": "dev-master"
     },
     "license": "Apache-2.0",
     "authors": [
